@@ -75,15 +75,19 @@ Paquetes principales:
 
 1. **Clona el repositorio**
 
+```
 git clone https://github.com/usuario/TFM-churn-seguros.git
 cd TFM-churn-seguros
-
+```
 
 2. **Instala las dependencias**
-pip install -r requirements.txt
 
-3. **Descarga o coloca los datos**
-- Los datos utilizados son sintéticos y están disponibles en [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset). Descárgalos y colócalos en la carpeta `data/`.
+```
+pip install -r requirements.txt
+```
+
+4. **Descarga o coloca los datos**
+- Los datos utilizados son sintéticos y están disponibles en [Kaggle](https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset).
 
 4. **Ejecuta los notebooks**
 - Abre los notebooks en Google Colab o Jupyter Notebook siguiendo el orden numérico para reproducir el flujo completo: EDA → Modelado → Optimización → Modelo resultante.
@@ -99,13 +103,9 @@ Esta obra está sujeta a una licencia de **Atribución/Reconocimiento-NoComercia
 ## Contacto
 
 - **Autor:** Luis Carlos Ocaña Hoeber
-- **Email:** [tu-email@ejemplo.com]
+- **Email:** [luisocanahober@gmail.com]
 - **Tutor:** Jorge Segura Gisbert
 
 ---
 
 > Este repositorio incluye tanto la memoria completa del TFM (`TFM.pdf`) como el código reproducible en notebooks. Se recomienda consultar el PDF para una explicación detallada de los resultados y la justificación metodológica.
-
----
-
-**¡Gracias por tu interés! Si encuentras útil este trabajo, no dudes en dejar tus comentarios o sugerencias.**
