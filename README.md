@@ -27,8 +27,8 @@ Este repositorio contiene la memoria y el código asociado al TFM, cuyo objetivo
 
 **Notebooks:**
 - `1_EDA_y_preprocesado.ipynb`: Análisis exploratorio de datos y preprocesamiento.
-- `2_Modelado.ipynb`: Entrenamiento y evaluación de modelos base.
-- `3_Optimizacion.ipynb`: Optimización de hiperparámetros y técnicas de balanceo.
+- `2_Modelado.ipynb`: Entrenamiento y evaluación de modelos base. Técnicas de balanceo.
+- `3_Optimizacion.ipynb`: Optimización de hiperparámetros.
 - `4_Modelo_resultante.ipynb`: Evaluación final, interpretabilidad (SHAP) y conclusiones.
 
 ---
