@@ -94,17 +94,10 @@ pip install -r requirements.txt
 
 ---
 
-## Licencia
-
-Esta obra está sujeta a una licencia de **Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Internacional de Creative Commons**.
-
----
-
 ## Contacto
 
 - **Autor:** Luis Carlos Ocaña Hoeber
 - **Email:** [luisocanahober@gmail.com]
-- **Tutor:** Jorge Segura Gisbert
 
 ---
 
