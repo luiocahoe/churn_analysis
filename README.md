@@ -37,7 +37,6 @@ Este repositorio contiene la memoria y el código asociado al TFM, cuyo objetivo
 
 - **Título:** Machine Learning para predecir cancelaciones y mejorar la retención en seguros
 - **Autor:** Luis Carlos Ocaña Hoeber
-- **Tutor:** Jorge Segura Gisbert
 - **Titulación:** Máster Universitario en Ciencia de Datos (UOC)
 - **Fecha:** 06/2024
 - **Palabras clave:** Machine Learning, Renovación de pólizas, Modelado predictivo, Predicción de abandono de clientes
