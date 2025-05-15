@@ -20,7 +20,7 @@ Este repositorio contiene la memoria y el código asociado al TFM, cuyo objetivo
 │ ├── 3_Optimizacion.ipynb
 │ └── 4_Modelo_resultante.ipynb
 ├── data/
-│ └── [Archivos de datos o instrucciones para obtenerlos]
+│ └── datos.csv
 ├── requirements.txt
 └── README.md
 ```
