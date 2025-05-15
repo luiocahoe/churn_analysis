@@ -12,7 +12,7 @@ Este repositorio contiene la memoria y el código asociado al TFM, cuyo objetivo
 
 ## Estructura del repositorio
 
-/
+```
 ├── TFM.pdf
 ├── notebooks/
 │ ├── 1_EDA_y_preprocesado.ipynb
@@ -23,7 +23,7 @@ Este repositorio contiene la memoria y el código asociado al TFM, cuyo objetivo
 │ └── [Archivos de datos o instrucciones para obtenerlos]
 ├── requirements.txt
 └── README.md
-
+```
 
 **Notebooks:**
 - `1_EDA_y_preprocesado.ipynb`: Análisis exploratorio de datos y preprocesamiento.
